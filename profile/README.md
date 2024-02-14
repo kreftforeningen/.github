@@ -5,8 +5,6 @@ The Norwegian Cancer Society (NCS) is one of the largest organisations in Norway
 ## Where we are
 
 - [kreftforeningen.no](https://kreftforeningen.no/)
-- [3minutter.no](https://3minutter.no/)
-- [lameghjelpe.no](https://www.lameghjelpe.no/)
 
 ## Support us
 
